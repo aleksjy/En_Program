@@ -1,0 +1,214 @@
+/* Ккод для главной страницы */
+body {
+
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    display: grid;
+    grid-template-columns: auto;
+    min-height: 150px;
+    background-color: royalblue;
+    color: aliceblue;
+    text-align: center;
+}
+
+.img_header {
+    display: grid;
+    grid-template-columns: auto;
+    height: 100%;
+    width: 100%;
+}
+
+main {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: beige;
+}
+
+.main_section,
+h2 {
+
+    margin: 10px 10px 10px 30px;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: auto;
+    height: 160px;
+    background-color: rgb(77, 76, 76);
+}
+
+.footer {
+    margin: 10px 10px 10px 10px;
+
+    color: aliceblue;
+}
+
+.moneta {
+    margin: 10px 10px 0px 10px;
+    height: 33px;
+}
+
+.donat {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.button {
+    background-color: #4CAF50;
+    /* Green */
+    border: 1px solid rgb(60, 77, 60);
+    border-radius: 5px;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 22px;
+    cursor: pointer;
+    width: 250px;
+    display: block;
+    margin: 10px 10px 10px 10px;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.start {
+    display: grid;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.colortext {
+    color: mediumblue;
+}
+
+/* Выше код для главной страницы */
+
+/* Ниже код для страницы урок */
+
+.main_title {
+    text-align: center;
+}
+
+.click {
+    width: 23px;
+    cursor: pointer;
+    
+}
+
+.go_back {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 20px 20px 20px ; 
+
+}
+
+.go {
+    display: grid;
+    justify-content: center
+}
+
+.back {
+    display: grid;
+    justify-content: center
+   
+}
+
+.img_back {
+
+    height: 50px;
+}
+
+.img_go {
+    height: 50px;
+}
+
+.home {
+    height: 45px; 
+}
+
+.lesson {
+    margin: 20px 20px 20px 40px;
+}
+
+.str {
+    margin-top: 5px;
+
+}
+
+.audio_fool {
+    text-align: center;
+}
+
+.task {
+    margin-left:  20px;
+}
+/* Выше код для страницы урок */
+
+/* Ниже код для страницы AUDIO */
+
+
+.audio_menu {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    margin: 0px 0 20px 0;
+    height: 60px;
+  }
+
+  .menu_a1 {
+    display: grid;
+    justify-content: center;
+    height: auto;
+    background-color: #4CAF50;
+  }
+
+  .menu_a2 {
+    display: grid;
+    justify-content: center;
+    height: auto;
+    background-color: blue;
+  }
+
+  .menu_b1 {
+    display: grid;
+    justify-content: center;
+    height: auto;
+    background-color: orange;
+  }
+
+  .menu_b2 {
+    display: grid;
+    justify-content: center;
+    height: auto;
+    background-color: magenta;
+  }
+
+  .menu_c1 {
+    display: grid;
+    justify-content: center;
+    height: auto;
+    background-color: royalblue;
+  }
+
+  .menu_c2 {
+    display: grid;
+    justify-content: center;
+    height: auto;
+    background-color: blueviolet;
+  }
+
+
+
+
+  /* Ниже код для страницы AUDIO */

@@ -1,0 +1,78 @@
+Introduction to English for Programming
+Basic English Vocabulary for Computers and Internet
+Commonly Used English Programming Terms
+Basic English Grammar: Nouns and Verbs
+Basic English Grammar: Adjectives and Adverbs
+Describing a Problem in English
+Asking for Help in English
+Understanding and Writing Error Messages in English
+Reading and Understanding Documentation in English
+Discussing Code in English: Variables and Functions
+Discussing Code in English: Loops and Conditions
+Software Development Process in English: Planning
+Software Development Process in English: Development
+Software Development Process in English: Testing
+Software Development Process in English: Deployment
+Describing Data Structures in English: Arrays and Lists
+Describing Data Structures in English: Dictionaries and Hash Maps
+Describing Data Structures in English: Trees and Graphs
+Object-Oriented Programming Terms in English
+Functional Programming Terms in English
+Database Terms in English: Tables and Records
+Database Terms in English: Queries and Joins
+Network Programming Terms in English: Client and Server
+Network Programming Terms in English: Request and Response
+Web Development Terms in English: HTML, CSS, JavaScript
+Web Development Terms in English: Frontend and Backend
+Mobile App Development Terms in English: Android and iOS
+Cloud Computing Terms in English: Servers, Storage, Databases
+Cybersecurity Terms in English: Encryption, Firewall, Virus
+Agile Methodology Terms in English: Scrum, Sprint, Kanban
+Version Control Terms in English: Git, Repository, Commit
+Machine Learning Terms in English: Algorithm, Model, Training
+Artificial Intelligence Terms in English: Neural Network, Deep Learning
+Big Data Terms in English: Hadoop, Spark, Data Mining
+Internet of Things (IoT) Terms in English
+Virtual Reality (VR) and Augmented Reality (AR) Terms in English
+Blockchain Technology Terms in English
+Quantum Computing Terms in English
+DevOps Terms in English
+Open Source Software Terms in English
+Writing a Technical Blog Post or Article in English
+Participating in an Online Developer Community in English
+Preparing for a Job Interview as a Programmer in English
+Understanding Job Titles and Roles in Tech Industry
+Understanding Tech Company Structures
+Writing Emails to Colleagues or Clients
+Participating in Meetings and Conference Calls
+Giving Presentations about Your Work or Project
+
+
+
+
+Напиши 69 коротких предложений.
+
+Тема - Описание вашего распорядка дня и дисциплина
+Уровень А1 Бегинер
+Можно без нумерации.
+
+
+Напиши 69 коротких предложений.
+2 - 4 слова.
+Тема - Basic English Vocabulary for Computers and Internet
+Уровень А1 Бегинер
+Можно без нумерации.
+
+
+
+Visual Studio Code. 
+Урок 1
+Напиши 69 комманд этого редактора.  
+69 первых команд 
+Без быстрых клавиш. 
+Без коментариев.
+Только комманды
+Простые комманды из одного слова
+Напиши 69 слов
+Начиная с первого меню.
+Всего напишим 5 уроков

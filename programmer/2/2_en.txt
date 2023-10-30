@@ -1,0 +1,41 @@
+Open the browser.
+Visit a website.
+Click a link.
+Scroll the page.
+Refresh the page.
+Close the tab.
+Download a file.
+Upload a photo.
+Install an app.
+Uninstall the app.
+Update the software.
+Enter your password.
+Forget the password?
+Reset your password.
+Create an account.
+Log into account.
+Log out now.
+Check your email.
+Send an email.
+Reply to email.
+Delete the email.
+Search the web.
+Use a hashtag.
+Post a tweet.
+Share a post.
+Like the photo.
+Comment on post.
+Follow the user.
+Unfollow the user.
+Block the user.
+Report the post.
+Play a video.
+Pause the video.
+Stop the video.
+Skip the ad.
+Mute the sound.
+Unmute the sound.
+Increase volume.
+Decrease volume.
+Full screen mode!
+Exit full screen! 42.Connect to Wi-Fi! 43.Disconnect from Wi-Fi! 44.Turn on Bluetooth! 45.Turn off Bluetooth! 46.Plug in charger! 47.Unplug the charger! 48.Check battery level! 49.Low battery warning! 50.Save your work! 51.Back up data! 52.Restore from backup! 53.Sync your devices! 54.Clear browsing history! 55.Enable cookies! 56.Disable pop-ups! 57.Set as homepage! 58.Add to bookmarks! 59.Check internet speed! 60.Slow internet connection! 61.Fast internet connection! 62.Server is down! 63.Page not found! 64.Error 404! 65.Virus detected! 66.Run antivirus scan! 67.Update antivirus software! 68.Install security updates! 69.Safe browsing mode!
