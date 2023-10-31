@@ -1,0 +1,73 @@
+body {
+
+    margin: 0;
+    padding: 0;
+}
+
+
+.head {
+    display: grid;
+    grid-template-columns: auto;
+    height: 100%;
+    width: 100%;
+   
+}
+
+.title {
+    display: grid;
+    grid-template-columns: auto;
+    min-height: 150px;
+    background-color: royalblue;
+    color: aliceblue;
+    text-align: center;
+}
+
+.img_header {
+    display: grid;
+    grid-template-columns: auto;
+    height: 100%;
+    width: 100%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.foto {
+    display: grid;
+    grid-template-columns: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.paragraf {
+    margin: 20px 20px 20px 20px;
+}
+
+
+/* Ниже код для футера */
+
+footer {
+    display: grid;
+    grid-template-columns: auto;
+    height: 160px;
+    background-color: rgb(77, 76, 76);
+}
+
+.footer {
+    margin: 10px 10px 10px 10px;
+
+    color: aliceblue;
+}
+
+.moneta {
+    margin: 10px 10px 0px 10px;
+    height: 33px;
+}
+
+.donat {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+/* Выше код для футера. */
